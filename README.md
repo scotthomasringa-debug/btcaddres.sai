@@ -1,34 +1,13 @@
-copyright scot ringa hiro nakamoto 
-God 143srb@blogger.com 
-A00.jwt 
-Bch.info 
-bch_price 
-bch_tx 
-behind this 
-Scotbot.aqi.interact True.wav EchoFraction k trading 
-https://satoshi.nakamotoinstitute.org/emails/cryptography/1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa 
-898
-(Xn -xn-:
-an =
-(XN -xo
-(Yn -Yn-:.
-en
-(XN -Xo
-(XN Xn-l-XoXn)
-en = (xN ) -xo
-(XNYn-l -xoxn) _
-d
-(XNYo-XoYN)
-in (XN -xo) n
-(XN -xo) -dn
-Y~-Yo)
-x~ -xo)
-The dn parameters are ::Jled the scaling factors of the shear transfonnations and are free parameters
-which are related to th~ ::~ctal d:::nension, D, of the interpolating graph according to
-if the following restric::~ns hoL:.:
-a. the N + 1 dat.:. ~c)inlS an equally spaced,
-b. I~=lldnl>:'
-c. Idnl < Hor 1< n <~.
-These conditions still Wave.\Ƴ so xƳz freedom for choosing the value Ƴ/.1534 
-run together Genesis block signature Verified 
-and scaling factor leads to a greater rate of decay Iso.8601.Z360_CYCLE 
+Scot T Ringa copyrights Original Probability Expression is part of Scot Ringa LLC Equation that show energy in motion concepts. 
+All Scot Ringa LLC and Scot T Ringa works and algorithms are protected by 
+Copyright (c) 2025 Scot T Ringa
+
+All rights reserved.
+
+This software and its source code are the intellectual property of Scot T Ringa, and Scot Ringa LLC  
+
+You may view and read the code for personal, non-commercial purposes only. You may not use, copy, modify, distribute, sublicense, or sell any part of this software without explicit, written permission from the copyright holder.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.
+
+

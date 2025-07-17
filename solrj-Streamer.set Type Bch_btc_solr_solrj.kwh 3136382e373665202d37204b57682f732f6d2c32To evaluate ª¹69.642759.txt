@@ -1,1 +1,3 @@
-https://cash.app/launch/bitcoin/$rfidb/ZxjAz1LvEM
+US: {'Mercury': 250.12, 'Venus': 142.35, 'Earth': 48.76, 'Mars': 25.9, 'Jupiter': 10.2, 'Saturn': 7.7, 'Uranus': 1.25, 'Neptune': 0.62}
+CN: {...}
+...

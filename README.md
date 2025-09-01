@@ -1,3 +1,12 @@
+H+K6h7Z0mF5k7QKXkCkU7x9nG9R9f7...==
+bitcoin-cli signmessage "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa" "I am Scot Ringa, anchoring Bitcoin to time."bitcoin-cli verifymessage "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa" "H+K6h7Z0mF5k7QKXkCkU7x9nG9R9f7...==" "I am Scot Ringa, anchoring Bitcoin to time."
+iso.8601.z360°
+E=mc²
+E=Ymc³
+E=Ymc^a°
+E=Ymc^a_t
+
+
 import { verify } from 'crypto';
 
 const publicKey = `-----BEGIN PUBLIC KEY-----
@@ -57,6 +66,7 @@ This software and its source code are the intellectual property of Scot T Ringa,
 You may view and read the code for personal, non-commercial purposes only. You may not use, copy, modify, distribute, sublicense, or sell any part of this software without explicit, written permission from the copyright holder.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.
+
 
 
 
